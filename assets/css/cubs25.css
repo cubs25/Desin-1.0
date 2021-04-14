@@ -1,0 +1,63 @@
+
+
+.ob-1{
+
+    font-weight: 700;
+}
+
+.ob-2{
+	 font-style: italic;
+}
+
+.gob-1 img{
+	width: 100%;
+	max-width: 280px;
+	
+}
+
+.space-4{
+  margin-top: 12px;
+	
+}
+
+.footer-wrappr  h2{
+	color: #fff;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.border-c25 img{
+	border-radius: 12px;
+}
+
+.card-top h4{
+	color: #fff;
+}
+
+#container-s1 {
+  height: 200px;
+  width: 400px;
+  position: relative;
+}
+
+
+#s-1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#s-1-text {
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+}
+
+
+.nowrap {
+    white-space: nowrap;
+}
+
